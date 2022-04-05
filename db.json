@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "image": "001.webp",
+            "name": "T-shirt 1",
+            "price": 100,
+            "article": "T1",
+            "available": true
+        },
+        {
+            "image": "002.webp",
+            "name": "T-shirt 2",
+            "price": 150,
+            "article": "T2",
+            "available": true
+        },
+        {
+            "image": "003.webp",
+            "name": "T-shirt 3",
+            "price": 200,
+            "article": "T3",
+            "available": true
+        },
+        {
+            "image": "004.webp",
+            "name": "T-shirt 4",
+            "price": 250,
+            "article": "T4",
+            "available": true
+        },
+        {
+            "image": "005.webp",
+            "name": "T-shirt 5",
+            "price": 300,
+            "article": "T5",
+            "available": true
+        },
+        {
+            "image": "006.webp",
+            "name": "T-shirt 6",
+            "price": 350,
+            "article": "T6",
+            "available": true
+        }
+    ]
+}
